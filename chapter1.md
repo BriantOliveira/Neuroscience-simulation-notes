@@ -25,8 +25,6 @@
 
   * Fill gaps using hypotheses
 
-
-
 ##### 
 
 ##### QUIZ
@@ -39,7 +37,7 @@
 
 ##### What is measured by experimental neuroscience?
 
-Everything from micro-components of the cells to higher order properties such as behavior. 
+Everything from micro-components of the cells to higher order properties such as behavior.
 
 **Which of the following are part of theoretical neuroscience?**
 
@@ -58,7 +56,7 @@ Difficulty to produce experimental results
 
 **Which is the best approach to study the brain?**
 
-All approaches are extremely valuable and form a global approach to study the brain 
+All approaches are extremely valuable and form a global approach to study the brain
 
 **Why are simulations so important in engineering?**
 
@@ -67,4 +65,28 @@ Because they allow to bypass costly and often unfeasible run test
 **Why is understanding the brain a big data problem that requires simulations?**
 
 Because all the above interact in extremely complex ways.
+
+
+
+#### **The principles of simulation neuroscience**
+
+#### 1 \) Dense Reconstruction from sparse data 
+
+The first important principle is that we have to do dense reconstructions dense, very detailed reconstructions and we have to do it from spares data. So, we will forever have spares data. No matter how much data we collect, it will forever be spare in terms of experimental. So, the problem we have to solve is how do we get a complete picture from spares data . So the first principles of simulation neuroscience is we have to establish the strategy from going to a little bit of datato using whatever knowledge we have of how the pieces fit together to build algorithms and algorithmically build the circuit. 
+
+
+
+* Spares Biological Data \(ideally Strategic data\). 
+
+* Constraints and principles 
+
+* Algorithms 
+
+
+
+
+
+
+
+
 
