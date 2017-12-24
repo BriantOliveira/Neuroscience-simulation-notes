@@ -78,29 +78,33 @@ The first important principle is that we have to do dense reconstructions dense,
 
 * Algorithms
 
-
-
-Random System 
+Random System
 
 * Need to measure every pixel 
 * no principles needed 
 * Blind/ explicit reconstruction
 
-Organized System 
+Organized System
 
 * Do not need to measure every pixel 
 * Principles needed 
 * Algorithmic reconstruction 
 
+The challenge is to find the minimum data you need. The smallest data set, not the largest data set. The real science is to say what is the least amount of data that I need to be able to reconstruct it. That is a **compression algorithm. **To reconstruct an image, In this case you wont need to measure everything, but you will need the principles an dthat is what drives simulation neuroscience. And the you algorithmically reconstruct it.
 
+2\) Reconstruct bottom up
 
-The challenge is to find the minimum data you need. The smallest data set, not the largest data set. The real science is to say what is the least amount of data that I need to be able to reconstruct it. That is a **compression algorithm. **To reconstruct an image, In this case you wont need to measure everything, but you will need the principles an dthat is what drives simulation neuroscience. And the you algorithmically reconstruct it. 
+* Follow biological principles 
+* Build the smallest components first
+* Freeze components 
+* Combine components
+* Validate again emergent properties 
+* Never fit to emergent properties and if you have to then only the very next level up. 
+* If you build it right it will automtically behave right.
 
+ So in order to build a simulation you cannot change the biological order of it, so you should not change the brain behavior, shape or etc. 
 
-
-
-
-
+Example: The guiding principle here is that if you build it right it will automatically behave right. So you build from the bottom up. You build the components you freeze them. If this is valid in therms of the behavior even if you don't know all the pieces. But if a neuron behaves right, and you put in a circuit, you can talk about about what neurons do. If the circuit behaves right and you put it into a brain, you can talk abut what the circut does and not the brain. So you don't try and tweak the model to beahve right. If the neurons, If you build it right it automatically behaves right. The last, the third principle is that iterative reconstruction and testing. SO you get your experimental data, you get your literature, you go and find all the papers you can, you mind all the facts you possibly can, and you try and build the unifying model of a neuron.  You find the eye channels, you find the morphologies, the structures, the physiology, any data that you have about the neuron, you collect. And then the challenge is how do you package that into the simplest algorithm that will reconstruct it.  
 
 
 
