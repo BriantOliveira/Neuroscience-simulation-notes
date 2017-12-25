@@ -144,29 +144,9 @@ Five steps of model building as guided by the third principle of simulation neur
 
 ![](/assets/Screen Shot 2017-12-24 at 8.06.54 PM.png)
 
-##### Data strategies 
+##### Data strategies
 
 The first approach to build circuits of the brain is to establish a data hierarchy and there is a reason that we actually approach simulation neuroscience at the micro circuit level.
 
-It is because it kind of is in the middle between brain regions and the whole brain, and cells and molecules and so you actually capture how do you integrate the components into higher level components. So it is relatively simple rules for how do you approach data. You establish a data hierarchy.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+It is because it kind of is in the middle between brain regions and the whole brain, and cells and molecules and so you actually capture how do you integrate the components into higher level components. So it is relatively simple rules for how do you approach data. You establish a data hierarchy. 
 
