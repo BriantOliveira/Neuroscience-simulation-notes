@@ -217,3 +217,11 @@ What is not an advantage of simulation of the brain tissue over experiments with
 
 
 
+**Caveats **
+
+1. Critical data may be missing
+2. Biological data often contains mistakes 
+3. Needs knowledge across many disciplines.
+
+
+
