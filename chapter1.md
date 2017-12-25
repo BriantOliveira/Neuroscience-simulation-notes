@@ -190,7 +190,8 @@ Find all your types of neurons, and then you work out how to position them toget
 
   * Need a supercomputer.
 
-  * Parallel code for simulation 
+  * Parallel code for simulation
+
   * Challenges   
     1. Algorithmic efficiency   
     2. Resource management   
@@ -202,5 +203,7 @@ Find all your types of neurons, and then you work out how to position them toget
 
   * Reproduces biological experiments?
 
+What is the main reason behind the need for workflows in the effort to reconstruct brain tissue?
 
+-Because it allows to automate the
 
