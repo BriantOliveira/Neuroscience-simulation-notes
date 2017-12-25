@@ -114,8 +114,6 @@ You obtain your model and then you interrogate it anatomically, you look at it a
 
 * New knowledge when you fail
 
-
-
 What is the first principle of simulation neuroscience?
 
 * Dense reconstruction from sparse data
@@ -124,7 +122,7 @@ Which of the following assertion about transmitting information based on random 
 
 * In organized systems, because relationships exist between different parts of information you do not need to measure everything to transmit the full information. 
 
-What is the second principle of simulation neuroscience? 
+What is the second principle of simulation neuroscience?
 
 * One should validate in an upward direction, validate the emerging properties of the system. 
 
@@ -132,17 +130,25 @@ What is the expectation of reconstruction bottom-up ?
 
 * If you build it right, it will automatically behave corret. 
 
-What is the third principle of simulation neuroscience? 
+What is the third principle of simulation neuroscience?
 
 * Iteratively reconstruct and test
 
-Five steps of model building as guided by the third principle of simulation neuroscience: 
+Five steps of model building as guided by the third principle of simulation neuroscience:
 
 1. Experimental data gathering/ Literature mining 
 2. Build a model
 3. Simulate 
 4. Model validation 
 5. Refinement of model 
+
+![](/assets/Screen Shot 2017-12-24 at 8.06.54 PM.png)
+
+##### Data strategies 
+
+The first approach to build circuits of the brain is to establish a data hierarchy and there is a reason that we actually approach simulation neuroscience at the micro circuit level.
+
+It is because it kind of is in the middle between brain regions and the whole brain, and cells and molecules and so you actually capture how do you integrate the components into higher level components. So it is relatively simple rules for how do you approach data. You establish a data hierarchy.  
 
 
 
