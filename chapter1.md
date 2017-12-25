@@ -182,7 +182,25 @@ The main goal for neuroinformatics is to build an infrastructure to compare expe
 2. Build workflows
 3. Validate 
 
-Find all your types of neurons, and then you work out how to position them together and then you find out how to connect them together and then you add the physiology and how do they behave, every neuron behaves. And then how every synapse behaves and then you have a circuit. 
+Find all your types of neurons, and then you work out how to position them together and then you find out how to connect them together and then you add the physiology and how do they behave, every neuron behaves. And then how every synapse behaves and then you have a circuit.
+
+
+
+**Simulation strategies **
+
+* Computing Requirements 
+
+1. Need a supercomputer. 
+2. Parallel code for simulation 
+3. Challenges 
+   1. Algorithmic efficiency 
+   2. Resource management 
+   3. Data management 
+
+* Value of Simulations
+
+1. Behavior as expected?
+2. Reproduces biological experiments?
 
 
 
