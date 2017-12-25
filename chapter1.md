@@ -102,15 +102,9 @@ The challenge is to find the minimum data you need. The smallest data set, not t
 * Never fit to emergent properties and if you have to then only the very next level up. 
 * If you build it right it will automtically behave right.
 
- So in order to build a simulation you cannot change the biological order of it, so you should not change the brain behavior, shape or etc. 
+  So in order to build a simulation you cannot change the biological order of it, so you should not change the brain behavior, shape or etc.
 
-Example: The guiding principle here is that if you build it right it will automatically behave right. So you build from the bottom up. You build the components you freeze them. If this is valid in therms of the behavior even if you don't know all the pieces. But if a neuron behaves right, and you put in a circuit, you can talk about about what neurons do. If the circuit behaves right and you put it into a brain, you can talk abut what the circut does and not the brain. So you don't try and tweak the model to beahve right. If the neurons, If you build it right it automatically behaves right. The last, the third principle is that iterative reconstruction and testing. SO you get your experimental data, you get your literature, you go and find all the papers you can, you mind all the facts you possibly can, and you try and build the unifying model of a neuron.  You find the eye channels, you find the morphologies, the structures, the physiology, any data that you have about the neuron, you collect. And then the challenge is how do you package that into the simplest algorithm that will reconstruct it.  
+Example: The guiding principle here is that if you build it right it will automatically behave right. So you build from the bottom up. You build the components you freeze them. If this is valid in therms of the behavior even if you don't know all the pieces. But if a neuron behaves right, and you put in a circuit, you can talk about about what neurons do. If the circuit behaves right and you put it into a brain, you can talk abut what the circut does and not the brain. So you don't try and tweak the model to beahve right. If the neurons, If you build it right it automatically behaves right. The last, the third principle is that iterative reconstruction and testing. SO you get your experimental data, you get your literature, you go and find all the papers you can, you mind all the facts you possibly can, and you try and build the unifying model of a neuron.  You find the eye channels, you find the morphologies, the structures, the physiology, any data that you have about the neuron, you collect. And then the challenge is how do you package that into the simplest algorithm that will reconstruct it. Tha is consistent with all the data that you gathered?
 
-
-
-
-
-
-
-
+You obtain your model and then you interrogate it anatomically, you look at it and you see: "It looks like a neuron! ". And then you simulate it to see if it behaves the correct way, as it does in the real tissue. And then you do an analysis, you do the system comparison and you get your errors.  
 
