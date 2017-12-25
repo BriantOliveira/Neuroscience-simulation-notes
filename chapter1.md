@@ -152,7 +152,20 @@ It is because it kind of is in the middle between brain regions and the whole br
 
 Start with the Ion which are membrane protein that allow specific ions to flow through and in either directions or whichever directions, and as they try to flow through, they change the voltage of the membrane of the neuron and collectively they will shape the way that the neurons behaves.
 
-  
+What is the integration hierarchy from low to high, of data for simulation neuroscience?
+
+* Ion channels are present in neurons; synaoses connect neurons; connect neurons form microcircuit
+
+What type of data are recorded when analyzing ion channels for simulation neuroscience?
+
+* The dynamics of their opening and closing. 
+* The location of the different channels in the cell.
+* The amount of current that can pass through each channel type.
+
+Wha kind of techniques are not used to record data about whole single neurons?
+
+* Paired recording 
+* Biophysical screening 
 
 
 
