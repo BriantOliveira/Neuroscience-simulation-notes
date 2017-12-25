@@ -167,34 +167,22 @@ Wha kind of techniques are not used to record data about whole single neurons?
 * Paired recording 
 * Biophysical screening 
 
-
-
 **Informatics strategies **
 
-The main goal for neuroinformatics is to build an infrastructure to compare experimental data with simulation data. This is essential to test and validate the results of simulation. To do so, mining of data is essential. 
+The main goal for neuroinformatics is to build an infrastructure to compare experimental data with simulation data. This is essential to test and validate the results of simulation. To do so, mining of data is essential.
 
 1. Easily compare experimental and simulation Data. 
 2. Find all papers and associated data.
 3. Organize the papers and the data for easy access. 
 4. Ultimately have it mapped to a brain atlas. 
 
-
-
 **Reconstruct Strategies**
 
+1. Build components
+2. Build workflows
+3. Validate 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Find all your types of neurons, and then you work out how to position them together and then you find out how to connect them together and then you add the physiology and how do they behave, every neuron behaves. And then how every synapse behaves and then you have a circuit. 
 
 
 
