@@ -116,5 +116,51 @@ You obtain your model and then you interrogate it anatomically, you look at it a
 
 
 
+What is the first principle of simulation neuroscience?
+
+* Dense reconstruction from sparse data
+
+Which of the following assertion about transmitting information based on random systems or on organized systems is true?
+
+* In organized systems, because relationships exist between different parts of information you do not need to measure everything to transmit the full information. 
+
+What is the second principle of simulation neuroscience? 
+
+* One should validate in an upward direction, validate the emerging properties of the system. 
+
+What is the expectation of reconstruction bottom-up ?
+
+* If you build it right, it will automatically behave corret. 
+
+What is the third principle of simulation neuroscience? 
+
+* Iteratively reconstruct and test
+
+Five steps of model building as guided by the third principle of simulation neuroscience: 
+
+1. Experimental data gathering/ Literature mining 
+2. Build a model
+3. Simulate 
+4. Model validation 
+5. Refinement of model 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
