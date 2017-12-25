@@ -192,9 +192,9 @@ Find all your types of neurons, and then you work out how to position them toget
 
   * Parallel code for simulation
 
-  * Challenges   
-    1. Algorithmic efficiency   
-    2. Resource management   
+  * Challenges  
+    1. Algorithmic efficiency  
+    2. Resource management  
     3. Data management
 
 * Value of Simulations
@@ -205,5 +205,15 @@ Find all your types of neurons, and then you work out how to position them toget
 
 What is the main reason behind the need for workflows in the effort to reconstruct brain tissue?
 
--Because it allows to automate the
+* Because it allows to automate the testing and validation process 
+
+Why does brain simulation need to be done on a supercomputer rather than on a grid \(an ensemble of computers connected over LAN/internet\)?
+
+* Because the simulation would process as slow as the slowest connection. 
+
+What is not an advantage of simulation of the brain tissue over experiments with brain tissues?
+
+* The measurements made on virtual tissue are more valid than when experimenting on brain tissue. 
+
+
 
