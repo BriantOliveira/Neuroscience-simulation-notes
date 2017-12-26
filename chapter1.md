@@ -227,23 +227,29 @@ What is not an advantage of simulation of the brain tissue over experiments with
 2. Morphological profile 
 3. Molecular profile 
 
+**IR-DIC stands for?**
+
+Infrared Differential Contrast Microcopy 
 
 
 
+IR-DIC allows to get very high depth view into tissue
+
+IR-DIC requires polarized light 
 
 
 
+**What do you need for a whole cell patch clamp?**
+
+A microscope and a glass micropipette
 
 
 
+What can be measured using a whole cell patch clamp - in conjunction with other techniques?
 
-
-
-
-
-
-
-
+* The morphological profile, i.e the 3rd structure of a neuron.
+* The electrophysiological profile, i.e a recording of the voltage of the cell under different stimuli.
+* The molecular profile, i.e the expression of different genes. 
 
 
 
