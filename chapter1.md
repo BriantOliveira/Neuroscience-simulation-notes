@@ -215,13 +215,35 @@ What is not an advantage of simulation of the brain tissue over experiments with
 
 * The measurements made on virtual tissue are more valid than when experimenting on brain tissue. 
 
-
-
 **Caveats **
 
 1. Critical data may be missing
 2. Biological data often contains mistakes 
 3. Needs knowledge across many disciplines.
+
+**Approach to study single neurons **
+
+1. Electrical profile 
+2. Morphological profile 
+3. Molecular profile 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
