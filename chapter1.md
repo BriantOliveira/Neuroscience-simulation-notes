@@ -245,9 +245,7 @@ What can be measured using a whole cell patch clamp - in conjunction with other 
 * The electrophysiological profile, i.e a recording of the voltage of the cell under different stimuli.
 * The molecular profile, i.e the expression of different genes.
 
-
-
-Inter neurons - typically inhibitory inter neurons and PYR these are excitatory, typically parametal cells. 
+Inter neurons - typically inhibitory inter neurons and PYR these are excitatory, typically parametal cells.
 
 **Morphological profiles **
 
@@ -273,15 +271,26 @@ What can you do from the averaged features of one neuron class?
 
 
 
+**Electrical Features**
 
+* AP amplitude 
+* AP halfwidth 
+* After hyperpolorization
+* Spike train accommodation
 
+**Electrophysiological profiles **
 
+How are the electrical types of neurons characterized using a whole cell patch-clamp experiment?
 
+* By using multiple patterns of electrical stimuli
 
+For a given electrical type it is...
 
+* ... in most cases, it is possible to predict when the cell reacts with an action potential to a stimulus
 
+From the 55 morphological types and the 11 electrical types, how many electro-morphological  types exist?
 
-
+* 207 morpho-electrotypes
 
  
 
