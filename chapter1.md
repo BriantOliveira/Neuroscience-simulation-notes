@@ -229,27 +229,61 @@ What is not an advantage of simulation of the brain tissue over experiments with
 
 **IR-DIC stands for?**
 
-Infrared Differential Contrast Microcopy 
-
-
+Infrared Differential Contrast Microcopy
 
 IR-DIC allows to get very high depth view into tissue
 
-IR-DIC requires polarized light 
-
-
+IR-DIC requires polarized light
 
 **What do you need for a whole cell patch clamp?**
 
 A microscope and a glass micropipette
 
-
-
 What can be measured using a whole cell patch clamp - in conjunction with other techniques?
 
 * The morphological profile, i.e the 3rd structure of a neuron.
 * The electrophysiological profile, i.e a recording of the voltage of the cell under different stimuli.
-* The molecular profile, i.e the expression of different genes. 
+* The molecular profile, i.e the expression of different genes.
+
+
+
+Inter neurons - typically inhibitory inter neurons and PYR these are excitatory, typically parametal cells. 
+
+**Morphological profiles **
+
+What kind of features can you get from morphological studies?
+
+* Volume of the soma 
+* Dendrites horizontal extend
+* Dendrite branching angle
+* Frequency of branching
+
+The following statements about morphological studies are incorrect?
+
+* The name of the different morphological classes were only recently defined 
+* Local morphology always covers the full neuron
+* Classification are based on global morphology of the cells 
+* Morphological studies are only possible on complete neurons 
+
+What can you do from the averaged features of one neuron class?
+
+* The averaged features can be used to clone statistically similar neurons 
+* The averaged features can be used to repair the morphology of sliced neurons 
+* The averaged features can be used to define rules used to synthetize new neurons 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
